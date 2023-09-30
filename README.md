@@ -1,4 +1,4 @@
 # manoj
 It is my first directory
 
-Author - Manoj kumawat
+Author - Manoj (apna college)
